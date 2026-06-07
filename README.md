@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Omkar Sutar 👋</h1>
 
 <p align="center">
-  <b>Senior Frontend Developer</b> · 5+ years · Pune, India<br/>
-  Building scalable, performant UIs that users love
+  <b>Fullstack Developer</b> · 5+ years · Pune, India<br/>
+  Building scalable, performant web apps — end to end
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 ```ts
 const omkar = {
-  role:       "Senior Software Engineer @ NTT Data",
+  role:       "Senior Fullstack Engineer @ NTT Data",
   location:   "Pune, Maharashtra, India",
-  focus:      ["React.js", "TypeScript", "Performance optimization"],
+  focus:      ["React.js", "TypeScript", "Node.js", "Micro-frontends", "Design Systems"],
   learning:   ["Next.js", "AWS", "AI application development"],
-  askMeAbout: ["React", "Flutter", "Frontend architecture"],
+  askMeAbout: ["React", "Node.js", "Micro-frontends", "CI/CD", "Self-hosting", "Fullstack architecture"],
 };
 ```
 
@@ -45,11 +45,25 @@ const omkar = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-**Testing & DevOps**
+**Architecture & Design**
+
+![Micro-frontends](https://img.shields.io/badge/Micro--Frontends-Module_Federation-FF6B35?style=flat-square&logo=webpack&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+**Build Tools**
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+**Testing & CI/CD**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Databases & APIs**
 
@@ -70,25 +84,39 @@ const omkar = {
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 Areas of Expertise
+
+### 🏗 Micro-Frontend Architecture
+Designing and implementing micro-frontend systems using **Webpack Module Federation**, enabling independent deployment of frontend modules across large-scale applications. Experience with shell/host app orchestration, shared dependency management, and inter-app communication patterns.
+
+### 🎨 Component Design Systems
+Building and maintaining scalable design systems with **Storybook** — standardized component libraries with documented APIs, accessibility baked in, and consistent tokens for typography, color, and spacing across product surfaces.
+
+### ⚙️ Modern Build Tooling
+Hands-on with **Vite** for lightning-fast dev servers and optimized production builds. Familiar with Webpack configuration, tree-shaking, bundle analysis, and optimizing build pipelines for large codebases.
+
+### 🚀 CI/CD Pipelines & Self-Hosting
+Designing end-to-end **GitHub Actions** pipelines — lint, test, build, and deploy — with zero-downtime deployments. Self-hosting applications on personal servers using **Docker** and **Nginx** as a reverse proxy, including SSL setup and process management.
+
+---
 
 ### 💬 Real-Time Chat App
-> React.js · Firebase · Authentication · Responsive design
+> React.js · Firebase · Node.js · Authentication · Responsive design
 
-Built a real-time chat application using React.js and Firebase with live authentication and message persistence, fully optimized across devices.
+Built a real-time chat application using React.js, Node.js, and Firebase with live authentication and message persistence, fully optimized across devices.
 
 ---
 
 ### 💸 Expense Tracker
 > React.js · Node.js · MySQL · Data Visualization
 
-Full-stack expense tracker with authentication, responsive UI, and interactive charts to visualize spending patterns.
+Full-stack expense tracker with authentication, RESTful API backend, responsive UI, and interactive charts to visualize spending patterns.
 
 ---
 
 ## 🤖 Exploring AI & Emerging Tech
 
-I'm actively building skills at the intersection of frontend engineering and AI:
+I'm actively building skills at the intersection of fullstack engineering and AI:
 
 - 🧠 **LLMs & Prompt Engineering** — Integrating AI-powered features into web apps
 - ⚙️ **n8n Agentic Workflows** — Automating complex workflows with AI agents
@@ -106,7 +134,7 @@ I'm actively building skills at the intersection of frontend engineering and AI:
 
 ## 📫 Let's Connect
 
-I'm open to interesting frontend challenges, AI integrations, and collaborative projects.
+I'm open to interesting fullstack challenges, AI integrations, and collaborative projects.
 
 - 🌐 [omkarsutar.in](https://omkarsutar.in)
 - 💼 [linkedin.com/in/omkar-sutar](https://linkedin.com/in/omkar-sutar)
